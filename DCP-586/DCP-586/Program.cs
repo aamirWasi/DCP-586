@@ -11,6 +11,7 @@ namespace DCP_586
         static void Main(string[] args)
         {
             int T = int.Parse(Console.ReadLine());
+            //for test case
             for(int t = 0; t < T; t++)
             {
                 string line = Console.ReadLine();
