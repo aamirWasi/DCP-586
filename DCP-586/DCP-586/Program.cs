@@ -14,6 +14,7 @@ namespace DCP_586
             //for test case
             for(int t = 0; t < T; t++)
             {
+                //Accepted Code
                 string line = Console.ReadLine();
                 string[] space = line.Split(' ');
                 int BronzeMedalCount = int.Parse(space[0]);
